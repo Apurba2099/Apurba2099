@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Apurba Dutta</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
-
+<img align="right" alt="coding image" width="480px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba2099&label=Profile%20views&color=0e75b6&style=flat" alt="apurba2099" /> </p>
 
 - 🌱 I’m currently learning **Html,Css,Javascript,Git,Github**
