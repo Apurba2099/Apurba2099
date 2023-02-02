@@ -1,5 +1,5 @@
 ## <h1 align="center">hello there!🤟<h1>
-![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
+![MasterHead](https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_600_2000/0/1630526455370?e=2147483647&v=beta&t=u2Y1Km4BQ4IpxR95UafxXD5fpu_fZvh_KE2qHvq_ngE)
 <h1 align="center">Hi 👋, I'm Apurba Dutta</h1>
 <h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
 
