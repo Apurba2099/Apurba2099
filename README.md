@@ -1,10 +1,12 @@
-## <h1 align="center">Hello there👋,</h1>
+## <h1 align="center">hello there!🤟<h1>
 <p align="center">
 <img src="https://github.com/Apurba2099/Apurba2099/blob/main/banner.gif" width=800>
 </p>
 <h1 align="center">Hi 👋, I'm Apurba Dutta</h1>
-<h3 align="center">A passionate Web-developer from India</h3>
+<h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
+
 <img align="right" alt="coding image" width="480px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba2099&label=Profile%20views&color=0e75b6&style=flat" alt="apurba2099" /> </p>
 
 - 🌱 I’m currently learning **Html,Css,Javascript,Git,Github**
@@ -18,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/apurbadutta2099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apurbadutta2099" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/apurba(apurba)dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba(apurba)dutta" height="30" width="40" /></a>
-<a href="https://fb.com/apurba dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apurba dutta" height="30" width="40" /></a>
-<a href="https://instagram.com/apurba2099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apurba2099" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/apurba-dutta-079230240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apurba-dutta-079230240/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100084888861255&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100084888861255&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/apurba2099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/apurba2099/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurba2099&show_icons=true&locale=en" alt="apurba2099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurba2099&" alt="apurba2099" /></p>
+
