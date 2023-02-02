@@ -1,7 +1,5 @@
 ## <h1 align="center">hello there!🤟<h1>
-<p align="center">
-<img src="https://github.com/Apurba2099/Apurba2099/blob/main/banner.gif" width=800>
-</p>
+![MasterHead](https://github.com/Apurba2099/Apurba2099/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Apurba Dutta</h1>
 <h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
 
