@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@apurbadutta2099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@apurbadutta2099" height="30" width="40" /></a>
+<a href="https://twitter.com/apurbadutta2099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apurbadutta2099" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/apurba-dutta-079230240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba-dutta-079230240" height="30" width="40" /></a>
-<a href="https://www.facebook.com/theapurbadutta" target="_blank"><img align="center" src="https://img.icons8.com/3d-fluency/40/null/facebook-circled.png" alt="apurba dutta"/></a>
+<a href="https://www.facebook.com/profile.php?id=100084888861255&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apurba dutta" height="30" width="40" /></a>
 <a href="https://instagram.com/apurba2099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apurba2099" height="30" width="40" /></a>
 </p>
 
