@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Apurba Dutta</h1>
 <h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
 
-<img align="right" alt="coding image" width="5000px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding image" width="480px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba2099&label=Profile%20views&color=0e75b6&style=flat" alt="apurba2099" /> </p>
 
