@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba2099&label=Profile%20views&color=0e75b6&style=flat" alt="apurba2099" /> </p>
 
-- 🌱 I’m currently learning **Html,Css,Javascript,Git,Github**
+- 🌱 I’m currently learning **FULL STACK WEB DEVELOPING WITH MERN STACK**
 
 - 💬 Ask me about **html,css,javascript,git**
 
